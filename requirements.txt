@@ -1,0 +1,4 @@
+urllib3==1.25.8
+beautifulsoup4==4.9.0
+requests==2.23.0
+autopep8==1.5.1
